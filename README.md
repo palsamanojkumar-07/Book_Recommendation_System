@@ -1,5 +1,14 @@
 # 📚 Book Recommendation System
 
+## 🔗 Project Links
+
+🌐 **Live Streamlit Application:** https://bookrecommendationsystem07.streamlit.app/
+
+💻 **GitHub Repository:** https://github.com/palsamanojkumar-07/Book_Recommendation_System
+
+📓 **Jupyter Notebook:** `Book Recommendation System.ipynb`
+
+
 ## Project Overview
 
 The **Book Recommendation System** is a machine learning project
